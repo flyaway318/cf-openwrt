@@ -1,7 +1,7 @@
 # openwry-x64-32m+512m
 - from lean openwrt
 - +应用过滤
-- +passwall
+- +pw
 
 # 感谢Actions-OpenWrt
 
