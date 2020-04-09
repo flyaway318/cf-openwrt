@@ -7,6 +7,7 @@
 #=================================================
 git clone https://github.com/destan19/OpenAppFilter.git package/destan19
 git clone https://github.com/Lienol/openwrt-package package/lienol
+git clone https://github.com/vernesong/OpenClash.git package/vernesong
 ./scripts/feeds update -a
 ./scripts/feeds install -a
 # Modify default IP
