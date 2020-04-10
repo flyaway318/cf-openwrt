@@ -3,6 +3,7 @@
 - +应用过滤
 - +passwall
 - +openclash
+- +smartdns
 
 # 感谢Actions-OpenWrt
 
