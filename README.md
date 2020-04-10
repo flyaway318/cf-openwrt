@@ -1,9 +1,8 @@
 # openwry-x64-32m+512m
 - from lean openwrt
-- +应用过滤
+- +oaf应用过滤
 - +passwall
 - +openclash
-- +smartdns
 
 # 感谢Actions-OpenWrt
 
