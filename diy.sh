@@ -1,14 +1,12 @@
 #!/bin/bash
 #=================================================
-# Description: DIY script for P3
-# Lisence: no
-# Author: creform
-# Blog: no
 #=================================================
+# oaf
 git clone https://github.com/destan19/OpenAppFilter.git package/destan19
+# passwall
 git clone https://github.com/Lienol/openwrt-package package/lienol
+# openclash
 git clone https://github.com/vernesong/OpenClash.git package/vernesong
-git clone https://github.com/pymumu/smartdns.git package/pymumu
 ./scripts/feeds update -a
 ./scripts/feeds install -a
 # Modify default IP
